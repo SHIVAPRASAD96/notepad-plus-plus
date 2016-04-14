@@ -10,7 +10,6 @@ natural languages. Running in the MS Windows environment, its use is governed by
 GPL License.
 
 
-
 To build Notepad++ from source:
 -------------------------------
 
